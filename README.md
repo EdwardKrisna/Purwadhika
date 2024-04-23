@@ -30,5 +30,3 @@ This project is a Python-based Heavy Equipment Rental System designed to facilit
 ```bash
 pip install tabulate
 ```
-#### Flowchart
-
